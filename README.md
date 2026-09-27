@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Driss 👋
 
-<!--
-**chekraouidriss/chekraouidriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity engineering student · Red Team & vulnerability research enthusiast
 
-Here are some ideas to get you started:
+🎓 Engineering student in Information Security & Digital Trust at ENSA Agadir
+🔍 Focused on penetration testing, offensive security & vulnerability research
+🚩 Learning by doing — CTFs, labs, and real-world assessments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+🔨 Building — Security labs (SOC Lab, offensive recon APIs)
+🌐 Exploring — Red Team ops, Active Directory, IoT security
+
+## Tools & Skills
+Python · Bash · Nmap · Burp Suite · Metasploit · Linux · Wazuh · Docker
+
+## Featured Projects
+| Project | What it does |
+|---|---|
+| 🛡️ SOC Lab (Wazuh/Suricata) | Attack simulation & detection lab mapped to MITRE ATT&CK |
+| 📡 Offensive Recon API | Port scanner, CVE/DNS/WHOIS lookup on OCI |
+| 🚩 AppsClub Mini-CTF 2026 | Participated in club CTF challenges |
+
+## Find me
+[LinkedIn](https://www.linkedin.com/in/driss-chekraoui-02701025b/)

@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Driss Chekraoui
 
-### `Cybersecurity Engineer in training | Red Team & Vulnerability Research`
+### `Cybersecurity Engineer in Training | Information Security & Digital Trust`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them;Offensive+Security+%7C+Red+Team;CTF+Player+%7C+Vulnerability+Research;Currently+seeking+PFE+internship)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Securing+systems+and+digital+infrastructures;Offensive+%26+Defensive+Security;SOC+%7C+Cloud+%7C+Network+Security;Application+Security+%7C+Automation;Currently+seeking+PFE+internship)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chekraouidriss&color=00ff00&style=flat-square)
 
@@ -19,11 +19,12 @@ $ whoami
 Driss Chekraoui — Engineering student, Information Security & Digital Trust @ ENSA Agadir
 
 $ cat mission.txt
-🎯 Understanding how systems break to build stronger defenses
-🔴 Passionate about Red Team ops & vulnerability research
+🎯 Securing digital systems through a comprehensive cybersecurity approach
+🔐 Exploring offensive security, defensive security & vulnerability management
+🛡️ Interested in SOC operations, threat detection & incident response
+☁️ Exploring cloud security, network security & application security
 🚩 Regular CTF player (HTB, THM, DGSSI, AKASEC)
-📡 Looking for a PFE internship in Offensive Security
-```
+📡 Looking for a PFE internship in Cybersecurity starting early 2027
 
 ---
 
